@@ -11,15 +11,8 @@ export default function AboutPage() {
             My name is Justine Nino Cubelo 20 years old, and I am a
             3rd Year Bachelor of Science in Information Technology
             student at Mater Dei College.
-            </p>
-
-            <p className="mt-4 text-lg leading-relaxed text-gray-600">
             I enjoy learning about web development,
             programming, and information technology.
-            I also actively participate in student
-            organizations and campus activities, where
-            I continue to develop my leadership,
-            communication, and teamwork skills.
             </p>
         </div>
         </main>
