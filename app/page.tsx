@@ -6,7 +6,7 @@ export default function Home() {
     <main className="min-h-screen bg-gray-50 px-8 py-16">
       <div className="mx-auto max-w-4xl">
         <h1 className="text-4xl font-bold text-gray-900">
-          Hi, I'm Justine Nino Cubelo!
+          Hi, Im Justine Nino Cubelo!
         </h1>
 
         <p className="mt-4 text-lg leading-relaxed text-gray-600">
@@ -16,11 +16,13 @@ export default function Home() {
           background and the projects I have worked on.
         </p>
 
+        <br></br>
+        
         <Link
           href="/projects"
-          className="mt-8 inline-block rounded-lg bg-blue-600 px-6 py-3 font-semibold text-white hover:bg-blue-700"
+          className="text-blue-400 underline hover:text-blue-400"
         >
-          View My Projects
+          See My Projects
         </Link>
       </div>
     </main>
